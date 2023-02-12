@@ -8,10 +8,10 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Golang.
+- 🌱 I’m currently learning Golang.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtoaminuhussain22@gmail.com.
+- 📫 You can [view my resume](https://www.linkedin.com/in/aminu-hussain-776950179/) and contact me by emailing mailtoaminuhussain22@gmail.com.
 
 ---
 

@@ -13,5 +13,5 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussain4real&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminu's GitHub stats" /> | <img align="center" src="https://camo.githubusercontent.com/e3dbcd19c92ca5761a772fae4e167ddf009ae26f829848385de6cb54833149f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64616e68617272696e2673686f775f69636f6e733d74727565" canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain4real&langs_count=8&layout=compact&hide_border=true" alt="Aminu's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussain4real&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminu's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain4real&langs_count=8&layout=compact&hide_border=true" alt="Aminu's GitHub stats" /> |
 | ------------- | ------------- |

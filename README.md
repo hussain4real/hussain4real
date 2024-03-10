@@ -13,11 +13,11 @@ I'm a Software Engineer, Content Creator, and Community Engager who currently wo
 
 ---
 
-![Top Repositories Aminu Hussain Contributed To](https://github-contributor-stats.vercel.app/api?username=mokhosh&limit=16&theme=flat&combine_all_yearly_contributions=true)
+![Top Repositories Aminu Hussain Contributed To](https://github-contributor-stats.vercel.app/api?username=hussain4real&limit=16&theme=flat&combine_all_yearly_contributions=true)
 
-![Aminu Hussain Github Stats](https://github-readme-stats.vercel.app/api?username=mokhosh&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![Aminu Hussain Github Stats](https://github-readme-stats.vercel.app/api?username=hussain4real&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-![Aminu Hussain Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhosh&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Aminu Hussain Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussain4real&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 | <img align="center" src="https://github-readme-stats-nu-silk.vercel.app/api?username=hussain4real&show_icons=true&include_all_commits=true&hide_border=true" alt="Aminu's GitHub stats" /> | <img align="center" src="https://github-readme-stats-nu-silk.vercel.app/api/top-langs/?username=hussain4real&langs_count=8&layout=compact&hide_border=true" alt="Aminu's GitHub stats" /> |

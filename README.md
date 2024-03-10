@@ -13,7 +13,7 @@ I'm a Software Engineer, Content Creator, and Community Engager who currently wo
 
 ---
 
-![Top Repositories Aminu Hussain Contributed To](https://github-contributor-stats.vercel.app/api?username=hussain4real&limit=16&theme=flat&combine_all_yearly_contributions=true)
+![Top Repositories Aminu Hussain Contributed To](https://github-contributor-stats.vercel.app/api?username=hussain4real&limit=16&theme=flat&combine_all_yearly_contributions=true&include_all_commits=true)
 
 
 
